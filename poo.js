@@ -22,7 +22,7 @@ class Pizza {
     return this;
   }
 }
-
+// santy, busca oficio 
 const pizzaHawaiana = new Pizza(
   "Masa Gruesa",
   "Mediana",
