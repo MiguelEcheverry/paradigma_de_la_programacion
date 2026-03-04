@@ -60,13 +60,8 @@ Incluye bebida: ${this.bebida} y postre: ${this.postre}`
 }
 
 const combo1 = new Combos(
-  "Familiar",
-  2,
-  "Gruesa",
-  "Grande",
-  ["Queso", "Pepperoni", "Piña"],
-  "Coca-Cola",
-  "Brownie"
+  "personal", 2, "delgada", "pequeña", ["jamom_serrano", "queso_gruyer", "parmesano_gratinado", "slami_picante", "sin bebida", "dos litros de elado a 2.000 pesitos"]
 );
 
-combo1.elegirCombo();
+console.log (combo1.elegirCombo());
+
