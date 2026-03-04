@@ -22,7 +22,7 @@ class Pizza {
     return this;
   }
 }
-// santy, busca oficio 
+// santy, busca oficio. esto no funciona 
 const pizzaHawaiana = new Pizza(
   "Masa Gruesa",
   "Mediana",
