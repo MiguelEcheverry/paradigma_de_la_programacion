@@ -1,0 +1,143 @@
+{
+  "películas" : [
+  {
+    "id" : " 94156f00-db7d-42e3-b5eb-f26e256fcae1 " ,
+    "título" : " CQ " ,
+    "año" : 2001 ,
+    "portada" : " http://dummyimage.com/130x249.png/ff4444/ffffff " ,
+    "descripción" : " Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. " ,
+    "duración" : 1922 ,
+    "contentRating" : " PG-13 " ,
+    "fuente" : " https://cbsnews.com/eleifend/pede.png " ,
+    "etiquetas" : [
+    " Drama | Romance "
+    ]
+  },
+  {
+    "id" : " ce16b2c2-1dd0-4e69-8176-09040f11cc2d " ,
+    "título" : " La Tierra Española " ,
+    "año" : 2012 ,
+    "portada" : " http://dummyimage.com/143x154.jpg/dddddd/000000 " ,
+    "descripción" : " Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. " ,
+    "duración" : 1987 ,
+    "contentRating" : " PG-13 " ,
+    "fuente" : " http://census.gov/volutpat.jsp " ,
+    "etiquetas" : [
+    " Horror " ,
+    " Documental " ,
+    " Drama | Romance "
+    ]
+  },
+  {
+    "identificación" : " 0c008a69-b8bb-4c96-97b3-2031ad0fc758 " ,
+    "título" : " Calles peligrosas " ,
+    "año" : 1996 ,
+    "portada" : " http://dummyimage.com/176x226.bmp/dddddd/000000 " ,
+    "descripción" : " Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. " ,
+    "duración" : 1947 ,
+    "contentRating" : " PG " ,
+    "fuente" : " http://auda.org.au/sapien/sapien/non/mi.png " ,
+    "etiquetas" : [
+    " Comedia|Drama "
+    ]
+  },
+  {
+    "identificación" : " 38436953-f828-4000-a1e3-5ed36c633ff2 " ,
+    "título" : " Sencillamente espectacular " ,
+    "año" : 1968 ,
+    "portada" : " http://dummyimage.com/170x206.jpg/cc0000/ffffff " ,
+    "descripción" : " Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. " ,
+    "duración" : 1955 ,
+    "contentRating" : " R " ,
+    "fuente" : " http://prnewswire.com/aliquam/erat.html " ,
+    "etiquetas" : [
+    " Suspenso "
+    ]
+  },
+  {
+    "identificación" : " 8ab2f271-5567-4d78-9fed-88ef660451fe " ,
+    "título" : " Guerra y paz (Voyna i mir ) " ,
+    "año" : 2003 ,
+    "portada" : " http://dummyimage.com/240x228.png/ff4444/ffffff " ,
+    "descripción" : " Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. " ,
+    "duración" : 1953 ,
+    "contentRating" : " G " ,
+    "fuente" : " https://fda.gov/non/velit/nec/nisi/vulputate/nonummy/maecenas.xml " ,
+    "etiquetas" : [
+    " Crimen | Drama | Fantasía | Cine negro | Misterio | Romance " ,
+    " Acción|Comedia|Crimen|Drama "
+    ]
+  },
+  {
+    "id" : " 1dc54123-8186-4cb9-adbb-a145e235871d " ,
+    "título" : " Thérèse " ,
+    "año" : 2009 ,
+    "portada" : " http://dummyimage.com/173x237.jpg/cc0000/ffffff " ,
+    "descripción" : " Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. " ,
+    "duración" : 1912 ,
+    "contentRating" : " NC-17 " ,
+    "fuente" : " https://1688.com/varius/ut.html " ,
+    "etiquetas" : [
+    " Drama|Cine negro " ,
+    " Comedia|Romance " ,
+    " Acción | Ciencia ficción " ,
+    " Comedia|Drama " ,
+    " Comedia | Drama | Romance "
+    ]
+  },
+  {
+    "id" : " 1cdb6171-8d12-4aea-bd86-c181d6e8cc42 " ,
+    "título" : " Hunky Dory " ,
+    "año" : 2012 ,
+    "portada" : " http://dummyimage.com/205x226.bmp/5fa2dd/ffffff " ,
+    "descripción" : " Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. " ,
+    "duración" : 1968 ,
+    "contentRating" : " NC-17 " ,
+    "fuente" : " http://amazonaws.com/augue/aliquam/erat/volutpat/in/congue/etiam.png " ,
+    "etiquetas" : [
+    " Acción | Thriller " ,
+    " Acción | Aventura " ,
+    " Drama | Romance | Ciencia ficción "
+    ]
+  },
+  {
+    "id" : " 4c1c536a-f323-4feb-80c1-ca93b896ae70 " ,
+    "título" : " Cinco piezas fáciles " ,
+    "año" : 1997 ,
+    "portada" : " http://dummyimage.com/153x246.png/cc0000/ffffff " ,
+    "descripción" : " Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. " ,
+    "duración" : 2039 ,
+    "contentRating" : " PG " ,
+    "fuente" : " http://nhs.uk/maecenas/leo/odio/condimentum.jsp " ,
+    "etiquetas" : [
+    " Aventura|Animación|Infantil|Drama|Fantasía "
+    ]
+  },
+  {
+    "id" : " a8c6c9fc-0107-494f-83ad-9ceadb11dc35 " ,
+    "título" : " Otro, El " ,
+    "año" : 1994 ,
+    "portada" : " http://dummyimage.com/242x134.jpg/ff4444/ffffff " ,
+    "descripción" : " Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. " ,
+    "duración" : 1935 ,
+    "contentRating" : " G " ,
+    "fuente" : " https://nba.com/sit.png " ,
+    "etiquetas" : [
+    " Crimen | Drama | Misterio | Thriller "
+    ]
+  },
+  {
+    "identificación" : " 5d448927-7d8e-49a7-a3bc-280938a05581 " ,
+    "title" : " Todos eran culpables " ,
+    "año" : 1995 ,
+    "portada" : " http://dummyimage.com/167x148.jpg/ff4444/ffffff " ,
+    "descripción" : " Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. " ,
+    "duración" : 1901 ,
+    "contentRating" : " PG-13 " ,
+    "fuente" : " http://google.cn/at/turpis/donec/posuere/metus/vitae/ipsum.jsp " ,
+    "etiquetas" : [
+    " Acción | Aventura | Drama "
+    ]
+  }
+  ]
+}
